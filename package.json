@@ -1,0 +1,19 @@
+{
+  "name": "movie-seat-booking-feature",
+  "version": "1.0.0",
+  "description": "Movie seat booking feature created with vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuvallo/movie-seat-booking-feature.git"
+  },
+  "author": "Tyler Miller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuvallo/movie-seat-booking-feature/issues"
+  },
+  "homepage": "https://github.com/nuvallo/movie-seat-booking-feature#readme"
+}
